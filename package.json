@@ -1,0 +1,19 @@
+{
+  "name": "grpc-todo",
+  "version": "0.0.1",
+  "description": "ToDo list with gRPC technology",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuagkcuf/gRPC-todo.git"
+  },
+  "author": "me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tuagkcuf/gRPC-todo/issues"
+  },
+  "homepage": "https://github.com/tuagkcuf/gRPC-todo#readme"
+}
